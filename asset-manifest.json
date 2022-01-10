@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboCrew/static/css/main.6f7c891c.css",
+    "main.js": "/RoboCrew/static/js/main.b2ec5b8a.js",
+    "static/js/787.99d0047b.chunk.js": "/RoboCrew/static/js/787.99d0047b.chunk.js",
+    "static/media/robotaur.woff": "/RoboCrew/static/media/robotaur.a07d8f14c5bb1f53d2bb.woff",
+    "index.html": "/RoboCrew/index.html",
+    "main.6f7c891c.css.map": "/RoboCrew/static/css/main.6f7c891c.css.map",
+    "main.b2ec5b8a.js.map": "/RoboCrew/static/js/main.b2ec5b8a.js.map",
+    "787.99d0047b.chunk.js.map": "/RoboCrew/static/js/787.99d0047b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f7c891c.css",
+    "static/js/main.b2ec5b8a.js"
+  ]
+}
